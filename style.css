@@ -42,7 +42,7 @@
 
 .outer-box .inner-box .main main p {
     text-align: center;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     margin: 20px 0;
 }
 
@@ -53,12 +53,12 @@
     margin: 10px 0;
     border: 1px solid #ccc;
     border-radius: 5px;
-    font-size: 1rem;
+    font-size: 1.4rem;
 }
 
 .outer-box .inner-box .main main input[type=button] {
     border: none;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     font-weight: 600;
     color: white;
     background-color: #1877F2;
@@ -77,6 +77,6 @@
 
 .outer-box .inner-box .main footer a {
     color: #1877F2;
-    font-size: 0.9rem;
+    font-size: 1.3rem;
     text-decoration: none;
 }
